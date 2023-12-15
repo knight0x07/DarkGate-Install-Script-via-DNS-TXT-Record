@@ -1,8 +1,8 @@
 # DarkGate Install Script retrieval via DNS TXT Record
 
-Recently, I came across a [tweet](https://twitter.com/Unit42_Intel/status/1732857094167023618) from Unit 42 showcasing a interesting technique utilized by DarkGate in order to retrieve DarkGate install script via DNS TXT Records leading to DarkGate infection on the victim machine in their recent campaign.
+Recently, I came across a [tweet](https://twitter.com/Unit42_Intel/status/1732857094167023618) from Unit 42 showcasing a interesting new technique utilized by DarkGate in order to retrieve DarkGate install script via DNS TXT Records leading to DarkGate infection on the victim machine in their recent campaign.
 
-I developed a PoC for the technique and uploaded it in the following repo which consists of -
+I developed a PoC for the new DarkGate Install script retrieval technique via DNS TXT Record and uploaded it in the following repo which consists of -
   - PDF with embed link (Name: Bank-Statement-poc.pdf)
   - ZIP Archive (Name: Bank-Statement-20231523-poc.pdf.zip)
       - consists of the LNK (Shortcut) file which retrieves install script via DNS TXT Records (Name: Bank-Statement-20231523-poc.pdf.lnk)
