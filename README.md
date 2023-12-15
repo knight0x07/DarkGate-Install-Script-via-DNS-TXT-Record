@@ -43,6 +43,9 @@ In the case of DarkGate ITW sample the TXT records retrieved by the malicious LN
 
 Image credits - Unit42_Intel
 
+Thanks,
+knight0x07
+
 
 
 
